@@ -9,7 +9,7 @@
 
 발표자 : 김민수 (https://github.com/minsoo2018/minsoo2018.github.io)
 
-    이해중 (https://github.com/DeepHaeJoong/RL.git)
+이해중 (https://github.com/DeepHaeJoong/RL.git)
     
 |목차|내용|일정(예정)|발표자|
 |------|---|---|---|
