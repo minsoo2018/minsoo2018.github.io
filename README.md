@@ -1,7 +1,7 @@
 # minsoo2018.github.io
-=====================
 
-Minsoo's github page
+RL
+===
 
 목표 : David Silver의 RL 강의 정리 및 예제 강화학습 code 구현
 
