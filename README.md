@@ -1,13 +1,18 @@
 # minsoo2018.github.io
 
-RL
+#RL
 ===
 
-목표 : David Silver의 RL 강의 정리 및 예제 강화학습 code 구현
-
-일정 : 매주 목요일 19:00 ~ 21:00 (예정)
-발표자 : 김민수 (https://github.com/minsoo2018/minsoo2018.github.io)
-         이해중 (https://github.com/DeepHaeJoong/RL.git)
+##목표
+##David Silver의 RL 강의 정리 및 예제 강화학습 code 구현
+---
+##일정
+##매주 목요일 19:00 ~ 21:00 (예정)
+---
+##발표자
+##김민수 (https://github.com/minsoo2018/minsoo2018.github.io)
+##이해중 (https://github.com/DeepHaeJoong/RL.git)
+---         
 
 |목차|내용|일정(예정)|발표자|
 |------|---|---|---|
