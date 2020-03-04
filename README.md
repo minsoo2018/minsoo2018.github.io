@@ -7,7 +7,9 @@
 
 일정 : 매주 목요일 19:00 ~ 21:00 (예정)
 
-발표자 : 김민수 (https://github.com/minsoo2018/minsoo2018.github.io)
+발표자 :
+
+김민수 (https://github.com/minsoo2018/minsoo2018.github.io)
 
 이해중 (https://github.com/DeepHaeJoong/RL.git)
     
